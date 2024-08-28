@@ -1,0 +1,13 @@
+opencv-python
+face-recognition
+numpy
+Pillow
+tk
+configparser
+Explanation of Requirements
+  1. opencv-python: Provides OpenCV bindings for Python. Used for accessing the webcam and performing basic image processing tasks.
+  2. face-recognition: A simple face recognition library that wraps around dlib, making it easier to use face recognition algorithms.
+  3. numpy: A fundamental package for numerical computations in Python. Used here for handling array operations.
+  4. Pillow: The Python Imaging Library (PIL) fork. Used for image processing tasks, such as converting OpenCV images to a format suitable for Tkinter.
+  5. tk: Tkinter is Python’s de-facto standard GUI (Graphical User Interface) package.
+  6. configparser: A module used to handle configuration files (config.ini).
